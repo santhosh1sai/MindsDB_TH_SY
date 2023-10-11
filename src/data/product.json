@@ -1,0 +1,147 @@
+[
+  {
+    "src": "mongodb.png",
+    "alt": "Mongodb",
+    "name": "Mongodb"
+  },
+  {
+    "src": "postgress.png",
+    "alt": "Postgress",
+    "name": "Postgress"
+  },
+  {
+    "src": "mysql.png",
+    "alt": "mysql",
+    "name": "Mysql"
+  },
+  {
+    "src": "ms-access.png",
+    "alt": "ms-access",
+    "name": "Microsoft Access"
+  },
+  {
+    "src": "airtable.png",
+    "alt": "airtable",
+    "name": "AirTable"
+  },
+  {
+    "src": "s-three.png",
+    "alt": "s-three",
+    "name": "S3"
+  },
+  {
+    "src": "cassandra.png",
+    "alt": "cassandra",
+    "name": "Cassandra"
+  },
+  {
+    "src": "click-house.png",
+    "alt": "click-house",
+    "name": "ClickHouse"
+  },
+  {
+    "src": "couchbase.png",
+    "alt": "couchbase",
+    "name": "Couchbase"
+  },
+  {
+    "src": "dolt.png",
+    "alt": "dolt",
+    "name": "Dolt"
+  },
+  {
+    "src": "datastax.png",
+    "alt": "datastax",
+    "name": "DataStax"
+  },
+  {
+    "src": "dynamodb.png",
+    "alt": "dynamodb",
+    "name": "DynamoDB"
+  },
+  {
+    "src": "elasticsearch.png",
+    "alt": "elasticsearch",
+    "name": "Elasticsearch"
+  },
+  {
+    "src": "firebird.png",
+    "alt": "firebird",
+    "name": "Firebird"
+  },
+  {
+    "src": "shopify.png",
+    "alt": "shopify",
+    "name": "Shopify"
+  },
+  {
+    "src": "jupyter.png",
+    "alt": "jupyter",
+    "name": "Jupyter"
+  },
+  {
+    "src": "loker.png",
+    "alt": "loker",
+    "name": "Looker"
+  },
+  {
+    "src": "deepnote.png",
+    "alt": "deepnote",
+    "name": "Deepnote"
+  },
+  {
+    "src": "bigquery.png",
+    "alt": "bigquery",
+    "name": "Big Query"
+  },
+  {
+    "src": "druid.png",
+    "alt": "druid",
+    "name": "Druid"
+  },
+  {
+    "src": "hugging.png",
+    "alt": "hugging",
+    "name": "Hugging"
+  },
+  {
+    "src": "impala.png",
+    "alt": "impala",
+    "name": "Impala"
+  },
+  {
+    "src": "informixz.png",
+    "alt": "informixz",
+    "name": "Informix"
+  },
+  {
+    "src": "ludwig.png",
+    "alt": "ludwig",
+    "name": "Ludwig"
+  },
+  {
+    "src": "mariadb.png",
+    "alt": "mariadb",
+    "name": "Mariadb"
+  },
+  {
+    "src": "matrixone.svg",
+    "alt": "matrixone",
+    "name": "Matrixone"
+  },
+  {
+    "src": "mlflow.png",
+    "alt": "mlflow",
+    "name": "Mlflow"
+  },
+  {
+    "src": "oracle.png",
+    "alt": "oracle",
+    "name": "Oracle"
+  },
+  {
+    "src": "orioledb.png",
+    "alt": "orioledb",
+    "name": "Orioledb"
+  }
+]
